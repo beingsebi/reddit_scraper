@@ -1,5 +1,6 @@
 subreddits = "oddlysatisfying+interestingasfuck+nextfuckinglevel+\
     whatcouldgowrong+funny+prequelmemes+unexpected+holdmybeer+natureisfuckinglit+kidsarefuckingstupid+contagiouslaughter"
+
 time_filter = "week"
 # "all", "day", "hour", "month", "week", or "year"
 
