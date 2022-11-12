@@ -1,0 +1,5 @@
+client_id = "XXXXXX"
+client_secret = "XXXXXX"
+user_agent = "XXXXXX"
+username = "XXXXXX"
+password = "XXXXXX"
